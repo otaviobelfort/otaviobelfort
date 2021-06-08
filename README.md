@@ -13,7 +13,9 @@
 <br />
 <br />
 - 💼 Graduando em Engenharia da Computação -  UFMA (Universidade Federal do Maranhão)
+
 - 💼 Graduado em Ciência e Tecnologia BICT - UFMA
+
 
 
 ### Linguagens e ferramentas:
