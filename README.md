@@ -42,6 +42,11 @@
 <a href="https://inkscape.org" target="_blank"> <img align="left" alt="XD" height="26px" src="https://github.com/otaviobelfort/otaviobelfort/blob/main/img/inkscape-logo.svg"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" height="26px" src="https://github.com/otaviobelfort/otaviobelfort/blob/main/img/illustrator.svg"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" height="26px" src="https://github.com/otaviobelfort/otaviobelfort/blob/main/img/photoshop.svg"/> </a>
+
+### SO:
+<a href="https://ubuntu.com/" target="_blank"> <img align="left" alt="XD" height="26px" src="https://github.com/otaviobelfort/otaviobelfort/blob/main/img/Ubuntu-.svg"/> </a> 
+<a href="https://linuxmint.com/" target="_blank"> <img align="left" alt="XD" height="26px" src="https://github.com/otaviobelfort/otaviobelfort/blob/main/img/Linux-Mint-.png.svg"/> </a> 
+
 <br />
 <br />
 
