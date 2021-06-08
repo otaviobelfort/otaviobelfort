@@ -47,8 +47,8 @@
 <br />
 
 ### SO:
-<a href="https://ubuntu.com/" target="_blank"> <img align="left" alt="XD" height="26px" src="https://github.com/otaviobelfort/otaviobelfort/blob/main/img/Ubuntu-.svg"/> </a> 
-<a href="https://linuxmint.com/" target="_blank"> <img align="left" alt="XD" height="26px" src="https://github.com/otaviobelfort/otaviobelfort/blob/main/img/Linux-Mint-.png.svg"/> </a> 
+<a href="https://ubuntu.com/" target="_blank"> <img align="left" alt="XD" height="26px" src="https://github.com/otaviobelfort/otaviobelfort/blob/main/img/Ubuntu.svg"/> </a> 
+<a href="https://linuxmint.com/" target="_blank"> <img align="left" alt="XD" height="26px" src="https://github.com/otaviobelfort/otaviobelfort/blob/main/img/Linux-Mint.png"/> </a> 
 
 <br />
 <br />
